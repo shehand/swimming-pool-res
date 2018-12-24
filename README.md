@@ -24,3 +24,5 @@ As well as an attractive front page for make website clean and beautiful.
  - There can be only two kind of users to the system. One is the customer and the other is admin.
  - Admin will be already registered with the system and only customer can register with the system.
  - Registration can be done using facebook and google also.
+
+> - User login
