@@ -17,3 +17,5 @@ The user has a swimming pool which is too hard to manage via a single person. No
 So the user requires a web based computer system to manage pool bookings as well as manage user details. There should be pool calendar to store booking and as well as some usual pool sessions. And there should be an admin panel to manage pool calendar, generate some analytical reports  and user details. As well as a third party payment gateway for online payments to be handled.
 
 As well as an attractive front page for make website clean and beautiful.
+
+### Functional Requirements
