@@ -11,3 +11,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Project Scope
+
+The user has a swimming pool which is too hard to manage via a single person. Normally user has to store data on swimming pool bookings, user registered details to check whether he is a regular customer or not and as well as pool calendar to store swimming pool sessions or sometimes bookings also. Pool bookings can be happened in two ways. One is online (but at this moment customers will use phone calls to book pool) and other is come to the pool and book.
