@@ -30,3 +30,5 @@ As well as an attractive front page for make website clean and beautiful.
  - And login can be done using facebook and google also.
 
 > - Pool Booking
+ - Customer either can be a member of the system or not. Customer can book pool for 1 or more people. There are few packages also. Normal and Premium packages available. Admin can change the package details and price. In premium package no one other than reserved people can reserve the pool after reserved some period.
+ - Also customer able to cancel their reservation any time if payment hasn’t made
