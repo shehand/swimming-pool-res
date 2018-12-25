@@ -54,3 +54,7 @@ As well as an attractive front page for make website clean and beautiful.
 > - UI/UX 
 - System must not be complex to user. User could able to reserve a space in the first page which visible to user and another page for verify payment if online payment is chosen by customer.
  - Also for admin
+ 
+> - Availability
+ - The system should be available because the user should be able to log into the system and reserve the pool at anytime anywhere. So availability is an another non-functional requirement.
+
