@@ -38,3 +38,6 @@ As well as an attractive front page for make website clean and beautiful.
 > - View analytics
  - Logged in users could see daily traffic of pool roughly with graph or some other technique. Then user can select preferable time period. Also admin can view advanced reports. Such as income,registered user count, more regular customers.
 
+> - Logout
+ - Admin and user can logout from the system
+
