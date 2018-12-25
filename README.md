@@ -45,3 +45,5 @@ As well as an attractive front page for make website clean and beautiful.
  - Payments can be done using two methods. If the customer book the pool via online he/she should deals with a payment gateway.
  - To do so the customer should be logged into the system.
  - Online payment is optional to customer, customer can pay on arrival also
+
+### Non - Functional Requirements
