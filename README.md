@@ -47,3 +47,6 @@ As well as an attractive front page for make website clean and beautiful.
  - Online payment is optional to customer, customer can pay on arrival also
 
 ### Non - Functional Requirements
+
+> - Security
+ - We have to consider about security as we are going to dealing with a payment gateway. So the security holes should be covered properly and make sure that no one can dealing with the payment gateway rather than the payment gateway provider.
