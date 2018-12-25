@@ -50,3 +50,7 @@ As well as an attractive front page for make website clean and beautiful.
 
 > - Security
  - We have to consider about security as we are going to dealing with a payment gateway. So the security holes should be covered properly and make sure that no one can dealing with the payment gateway rather than the payment gateway provider.
+
+> - UI/UX 
+- System must not be complex to user. User could able to reserve a space in the first page which visible to user and another page for verify payment if online payment is chosen by customer.
+ - Also for admin
