@@ -36,4 +36,5 @@ As well as an attractive front page for make website clean and beautiful.
  - Admin can confirm user by scanning qr code, entering number or entering email/id.
  
 > - View analytics
+ - Logged in users could see daily traffic of pool roughly with graph or some other technique. Then user can select preferable time period. Also admin can view advanced reports. Such as income,registered user count, more regular customers.
 
