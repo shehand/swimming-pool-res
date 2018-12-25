@@ -34,4 +34,6 @@ As well as an attractive front page for make website clean and beautiful.
  - Also customer able to cancel their reservation any time if payment hasn’t made
  - Upon the successful reservation with or  without payment user will get an email with QR code with some number. When arriving the customer , He/She can show their phone to confirm reservation.
  - Admin can confirm user by scanning qr code, entering number or entering email/id.
+ 
+> - View analytics
 
