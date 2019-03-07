@@ -1,5 +1,7 @@
 # SwimmingPoolRes
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/25bf14c107bc452795d4760b87b2ea13)](https://app.codacy.com/app/shehand/swimming-pool-res?utm_source=github.com&utm_medium=referral&utm_content=shehand/swimming-pool-res&utm_campaign=Badge_Grade_Dashboard)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
 #### Development server
