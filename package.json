@@ -23,7 +23,7 @@
     "@angular/material": "^7.0.4",
     "@angular/platform-browser": "^7.0.4",
     "@angular/platform-browser-dynamic": "^7.0.4",
-    "@angular/router": "^7.0.4",
+    "@angular/router": "^8.2.6",
     "@ng-bootstrap/ng-bootstrap": "^4.0.0",
     "angular-bootstrap-datetimepicker": "^2.2.1",
     "angular-bootstrap-md": "^6.3.0",
