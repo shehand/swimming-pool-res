@@ -38,7 +38,7 @@ As well as an attractive front page for make website clean and beautiful.
  - Admin can confirm user by scanning qr code, entering number or entering email/id.
  
 > - View analytics
- - Logged in users could see daily traffic of pool roughly with graph or some other technique. Then user can select preferable time period. Also admin can view advanced reports. Such as income,registered user count, more regular customers.
+ - Logged in users could see daily traffic of pool roughly with graph or some other technique. Then user can select preferable time period. Also admin can view advanced reports. Such as income, registered user count, more regular customers.
 
 > - Logout
  - Admin and user can logout from the system
@@ -51,7 +51,7 @@ As well as an attractive front page for make website clean and beautiful.
 ### Non - Functional Requirements
 
 > - Security
- - We have to consider about security as we are going to dealing with a payment gateway. So the security holes should be covered properly and make sure that no one can dealing with the payment gateway rather than the payment gateway provider.
+ - We have to consider about security as we are going to deal with a payment gateway. So the security holes should be covered properly and make sure that no one can deal with the payment gateway rather than the payment gateway provider.
 
 > - UI/UX 
 - System must not be complex to user. User could able to reserve a space in the first page which visible to user and another page for verify payment if online payment is chosen by customer.
