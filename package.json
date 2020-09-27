@@ -27,7 +27,7 @@
     "@ng-bootstrap/ng-bootstrap": "7.0.0",
     "angular-bootstrap-datetimepicker": "^4.0.0",
     "angular-bootstrap-md": "9.3.1",
-    "angular-calendar": "0.28.16",
+    "angular-calendar": "0.28.20",
     "angularx-flatpickr": "6.3.0",
     "chart.js": "^2.7.3",
     "chartjs": "^0.3.24",
@@ -39,7 +39,7 @@
     "npm": ">=6.13.4",
     "rxjs": "~6.6.3",
     "uniqid": "^5.0.3",
-    "zone.js": "~0.10.2"
+    "zone.js": "~0.11.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1001.1",
@@ -49,8 +49,8 @@
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~14.0.14",
+    "jasmine-core": "~3.6.0",
     "codelyzer": "~6.0.0",
-    "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~5.0.1",
     "karma-coverage-istanbul-reporter": "~3.0.3",
     "karma": "~4.4.1",
@@ -58,7 +58,7 @@
     "karma-jasmine": "~4.0.1",
     "karma-jasmine-html-reporter": "^1.4.0",
     "protractor": "~7.0.0",
-    "ts-node": "~8.10.1",
+    "ts-node": "~9.0.0",
     "tslint": "~6.1.1",
     "typescript": "~4.0.2"
   }
