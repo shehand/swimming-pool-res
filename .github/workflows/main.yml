@@ -17,5 +17,5 @@ jobs:
         username: ${{ github.actor }}
         password: ${{ secrets.GH_TOKEN }}
         registry: docker.pkg.github.com
-        tags: app:latest  
+        tags: latest  
         tag_with_ref: true
