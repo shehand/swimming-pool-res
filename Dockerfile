@@ -3,8 +3,14 @@
 #############
 
 FROM node:12.7-alpine AS build
-WORKDIR /usr/src/app
-COPY package.json ./
+WORKDIR /app
+ENV PATH /app/node_modules/.bin:$PATH
+COPY package.json /app/package.json
 RUN npm install
-COPY . .
-RUN npm run build
+RUN npm install -g @angular/cli@8.2.14
+COPY . /app
+RUN ng build --output-path=dist
+FROM nginx:1.16.0-alpine
+COPY --from=build /app/dist /usr/share/nginx/html
+EXPOSE 80
+CMD ["nginx", "-g", "daemon off;"]
