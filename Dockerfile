@@ -7,7 +7,7 @@ WORKDIR /app
 ENV PATH /app/node_modules/.bin:$PATH
 COPY package.json /app/package.json
 RUN npm install
-RUN npm install -g @angular/cli@8.2.14
+RUN npm install -g @angular/cli
 COPY . /app
 RUN ng build --output-path=dist
 FROM nginx:1.16.0-alpine
