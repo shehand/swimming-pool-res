@@ -20,7 +20,7 @@
     "@angular/flex-layout": "^7.0.0-beta.19",
     "@angular/forms": "^8.2.6",
     "@angular/http": "^7.0.4",
-    "@angular/material": "9.2.0",
+    "@angular/material": "10.2.7",
     "@angular/platform-browser-dynamic": "^8.2.6",
     "@angular/platform-browser": "^8.2.6",
     "@angular/router": "^8.2.6",
@@ -37,7 +37,7 @@
     "flatpickr": "^4.5.2",
     "i": "^0.3.6",
     "npm": ">=6.13.4",
-    "rxjs": "~6.5.3",
+    "rxjs": "~6.6.3",
     "uniqid": "^5.0.3",
     "zone.js": "~0.11.1"
   },
